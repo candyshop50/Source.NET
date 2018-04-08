@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypter_NET", "Crypter_NET\Crypter_NET.csproj", "{9A1862DC-4D22-4B5E-8803-C1B1AE28082C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stub", "stub\stub.csproj", "{953327E8-8593-425D-9394-12C929C08AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1862DC-4D22-4B5E-8803-C1B1AE28082C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1862DC-4D22-4B5E-8803-C1B1AE28082C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1862DC-4D22-4B5E-8803-C1B1AE28082C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1862DC-4D22-4B5E-8803-C1B1AE28082C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953327E8-8593-425D-9394-12C929C08AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953327E8-8593-425D-9394-12C929C08AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953327E8-8593-425D-9394-12C929C08AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953327E8-8593-425D-9394-12C929C08AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD5AD6A-C8E0-479C-B167-477CCC15405B}
+	EndGlobalSection
+EndGlobal

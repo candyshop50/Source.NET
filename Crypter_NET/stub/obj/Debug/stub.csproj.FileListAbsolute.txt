@@ -1,0 +1,12 @@
+C:\Users\SHNIDER\source\repos\Crypter_NET\bin\Debug\stub.exe
+C:\Users\SHNIDER\source\repos\Crypter_NET\bin\Debug\stub.pdb
+C:\Users\SHNIDER\source\repos\Crypter_NET\stub\obj\Debug\stub.csprojResolveAssemblyReference.cache
+C:\Users\SHNIDER\source\repos\Crypter_NET\stub\obj\Debug\stub.csproj.CoreCompileInputs.cache
+C:\Users\SHNIDER\source\repos\Crypter_NET\stub\obj\Debug\stub.exe
+C:\Users\SHNIDER\source\repos\Crypter_NET\stub\obj\Debug\stub.pdb
+C:\Users\SHODAN\Desktop\Crypter_NET\bin\Debug\stub.exe
+C:\Users\SHODAN\Desktop\Crypter_NET\bin\Debug\stub.pdb
+C:\Users\SHODAN\Desktop\Crypter_NET\stub\obj\Debug\stub.csprojResolveAssemblyReference.cache
+C:\Users\SHODAN\Desktop\Crypter_NET\stub\obj\Debug\stub.csproj.CoreCompileInputs.cache
+C:\Users\SHODAN\Desktop\Crypter_NET\stub\obj\Debug\stub.exe
+C:\Users\SHODAN\Desktop\Crypter_NET\stub\obj\Debug\stub.pdb

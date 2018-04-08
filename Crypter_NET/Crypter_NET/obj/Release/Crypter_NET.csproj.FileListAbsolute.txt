@@ -1,0 +1,12 @@
+C:\Users\SHNIDER\source\repos\Crypter_NET\bin\Release\Crypter_NET.exe
+C:\Users\SHNIDER\source\repos\Crypter_NET\bin\Release\Crypter_NET.pdb
+C:\Users\SHNIDER\source\repos\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.csprojResolveAssemblyReference.cache
+C:\Users\SHNIDER\source\repos\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.csproj.CoreCompileInputs.cache
+C:\Users\SHNIDER\source\repos\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.exe
+C:\Users\SHNIDER\source\repos\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.pdb
+C:\Users\SHODAN\Desktop\Crypter_NET\bin\Release\Crypter_NET.exe
+C:\Users\SHODAN\Desktop\Crypter_NET\bin\Release\Crypter_NET.pdb
+C:\Users\SHODAN\Desktop\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.csprojResolveAssemblyReference.cache
+C:\Users\SHODAN\Desktop\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.csproj.CoreCompileInputs.cache
+C:\Users\SHODAN\Desktop\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.exe
+C:\Users\SHODAN\Desktop\Crypter_NET\Crypter_NET\obj\Release\Crypter_NET.pdb

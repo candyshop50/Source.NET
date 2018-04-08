@@ -1,0 +1,12 @@
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\bin\Release\NET_FileToHex.exe
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\bin\Release\NET_FileToHex.pdb
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.csproj.CoreCompileInputs.cache
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.exe
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.pdb
+C:\Users\SHODAN\source\repos\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.csprojResolveAssemblyReference.cache
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\bin\Release\NET_FileToHex.exe
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\bin\Release\NET_FileToHex.pdb
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.csprojResolveAssemblyReference.cache
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.csproj.CoreCompileInputs.cache
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.exe
+C:\Users\SHODAN\Desktop\NET_FileToHex\NET_FileToHex\obj\Release\NET_FileToHex.pdb

